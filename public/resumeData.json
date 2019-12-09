@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Stephen Hendrix",
+    "occupation":"Full-Stack Developer",
+    "description":"Former educator and recent Boot Camp graduate with a passion for problem-solving.",
+    "image":"profilepic.jpg",
+    "bio":"As a teacher I emphasized critical thinking and problem-solving skills; in my first year my students earned the highest scores on their standardized test in a network of 11 high schools because of my hands-on approach and refusal to lecture. When I discovered web development, I discovered a discipline that allowed me to once again revel in clarity and logic. I'm interested in full-stack development because of the opportunity it brings to learn so much.",
+    "contactmessage":"I hope you'll get in touch to let me know about any exciting or interesting opportunities (as soon as this button is working!).",
+    "email": "StephenTHendrix@gmail.com",
+    "phone": "(469) 644-3598",
+    "address":{
+      "street":"3140 North Hall Street",
+      "city":"Dallas",
+      "state":"Texas",
+      "zip": "75204"
+    },
+    "website": "http://www.StephenTHendrix.com",
+    "resumedownload":"http://StephenTHendrix.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://linkedin.com/in/stephenthendrix",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/StephenTHendrix",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I've been involved in education because of my love of learning; it's prepared me well to work with a team and to stay curious about new technology.",
+    "education":[
+      {
+        "school":"SMU",
+        "degree":"Certificate in Full-Stack Web Development",
+        "graduated":"December 2019",
+        "description":"Earned an A+ in a rigorous curriculum that covers a full stack: HTML5, CSS3, JavaScript, jQuery, Node.js, Java, Express.js, React.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more. Gained experience working in group projects with personal contributions in each of these technologies." 
+      },
+      {
+        "school":"St. John's College",
+        "degree":"B.A. History of Western Mathematics and Science; Philosophy. Minors in Comparative Literature and Linguistics",
+        "graduated":"May 2015",
+        "description":"A Great Books school where classes are small and lessons are student-led discussions. Whether translating Aristotle or proving Einstein's most famous equations, we learned by reading primary sources and working together to build a deep understanding of fundamental ideas."
+      }
+    ],
+    "work":[
+      {
+        "company":"Victory Step Education",
+        "title":"SAT/ACT Tutor",
+        "years":"August 2019 - Present",
+        "description":"Provide academic and organizational support to students preparing for SAT, ACT, or regular coursework. Students passed AP tests, raised class grades and standardized test scores. Track student progress and employ appropriate interventions to raise scores and grades. Maintain energy and optimism throughout session; be student's cheerleader. Coordinate schedules with parents."
+      },
+      {
+        "company":"Chandler Preparatory Academy",
+        "title":"Honors Geometry/History Teacher",
+        "years":"July 2016 - July 2018",
+        "description":"Planned and implemented lessons with an emphasis on problem-solving, as well as helped develop the school's new geometry curriculum. Assisted multiple seniors write and defend their theses, maintaining clear communication and feedback to help improve their argument and presentation. Coordinated school spelling bee and 8th grade commencement, including communicating and planning across grade-level teams, participant tracking and creation of certificates."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"75%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"mySQL",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Marvel Personalities",
+        "category":"A way to generate your favorite Marvel superhero personality Big 5 personality profiles. Powered by IBM Watson and Marvel APIs",
+        "image":"Marvel.png",
+        "url":"https://stephenthendrix.github.io/group-project/"
+      },
+      {
+        "title":"Quirk",
+        "category":"A project management tool that allows users to assign boards and tasks to one another. Full-stack application with user authentication.",
+        "image":"Quirk.png",
+        "url":"https://project-two-0.herokuapp.com/"
+      },
+      {
+        "title":"Neighborly",
+        "category":"A way for volunteers and those in need of volunteers to connect quickly.",
+        "image":"Neighborly.png",
+        "url":"https://myneighborly.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Very Knowledgeable And Knows Where to Start Immediately! To see our son actually understand geometry on his first visit with Stephen was very gratifying. He was nervous about sharing what he didn't know about geometry and having to talk with a 'stranger' about his weaknesses. But Stephen came in, starting talking like he knew our son and starting working on geometry to where our son understood. Our son asked questions and wasn't afraid to try an answer and get it wrong. Stephen made him feel very comfortable. After Stephen left, our son felt so good about himself, we heard him say, 'YESSSSSS!!!! I got it', as he went to his room. Thank you, Stephen. Look forward to the next session.",
+        "user":"Lisa, Wyzant"
+      },
+      {
+        "text":"Great teacher! Stephen H. is great! Took the time to see how best to explain things to my son Marcus and did so thoroughly and effectively. Marcus got out of his first session with Stephen saying that for the first time geometry was making sense to him! We will definitely be booking again. I highly recommend Stephen.",
+        "user":"Kathryn, Wyzant"
+      }
+    ]
+  }
+}
