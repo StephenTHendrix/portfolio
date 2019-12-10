@@ -65,23 +65,47 @@
         "level":"75%"
       },
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"mySQL",
+        "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Express.js",
+        "level":"75%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
       },
       {
         "name":"HTML5",
         "level":"90%"
       },
       {
-        "name":"mySQL",
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"85%"
+      },
+      {
+        "name":"Git",
         "level":"70%"
       },
       {
-        "name":"MongoDB",
+        "name":"AJAX",
+        "level":"75%"
+      },
+      {
+        "name":"Heroku",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
         "level":"70%"
       }
     ]
