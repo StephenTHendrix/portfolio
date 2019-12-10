@@ -2,7 +2,8 @@
   "main": {
     "name":"Stephen Hendrix",
     "occupation":"Full-Stack Developer",
-    "description":"Former educator and recent Boot Camp graduate with a passion for problem-solving.",
+    "description":"Former educator and recent Boot Camp graduate with a passion for problem-solving",
+    "description2":"This page is under construction",
     "image":"profilepic.jpg",
     "bio":"As a teacher I emphasized critical thinking and problem-solving skills; in my first year my students earned the highest scores on their standardized test in a network of 11 high schools because of my hands-on approach and refusal to lecture. When I discovered web development, I discovered a discipline that allowed me to once again revel in clarity and logic. I'm interested in full-stack development because of the opportunity it brings to learn so much.",
     "contactmessage":"I hope you'll get in touch to let me know about any exciting or interesting opportunities (as soon as this button is working!).",
