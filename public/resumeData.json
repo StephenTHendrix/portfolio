@@ -1,19 +1,16 @@
 {
   "main": {
     "name":"Stephen Hendrix",
-    "occupation":"Full-Stack Developer",
-    "description":"Former educator and recent Boot Camp graduate with a passion for problem-solving",
-    "description2":"This page is under construction",
+    "occupation":"Full-Stack Web Development Teaching Assistant",
+    "description":"Full-Stack Developer with a passion for problem-solving and collaboration",
     "image":"profilepic.jpg",
-    "bio":"As a teacher I emphasized critical thinking and problem-solving skills; in my first year my students earned the highest scores on their standardized test in a network of 11 high schools because of my hands-on approach and refusal to lecture. When I discovered web development, I discovered a discipline that allowed me to once again revel in clarity and logic. I'm interested in full-stack development because of the opportunity it brings to learn so much.",
+    "bio":"As a web development teaching assistant, I help my students develop a problem-solving mindset: I encourage them to accomplish one small task at a time, and gradually build to a fully functioning application. This involves analyzing a problem and understanding it as smaller problems, a skill which I developed while pursuing a major in the History of Western Mathematics and Science, and modeled for the last 6 years as a teacher and tutor. Writing elegant code independently is exhilarating, but being able to share the process with a team is an experience I plan to chase for a long time.",
     "contactmessage":"I hope you'll get in touch to let me know about any exciting or interesting opportunities (as soon as this button is working!).",
     "email": "StephenTHendrix@gmail.com",
     "phone": "(469) 644-3598",
     "address":{
-      "street":"3140 North Hall Street",
       "city":"Dallas",
-      "state":"Texas",
-      "zip": "75204"
+      "state":"Texas"
     },
     "website": "http://www.StephenTHendrix.com",
     "resumedownload":"https://drive.google.com/file/d/1EikzR1MDwsFvckgV40z2D2g01v4lPcGQ/view?usp=sharing",
@@ -48,16 +45,16 @@
     ],
     "work":[
       {
+        "company":"Southern Methodist University",
+        "title":"Full-Stack Web Development Teaching Assistant",
+        "years":"January 2020 - Present",
+        "description":"Teach students concept in coding, including Git, GitHub, HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Heroku, Node Js, MySQL, MongoDB, Express, Handelbars.js, ReactJS, and object-oriented programming. Encourage and model best practices and a problem-solving mindset."
+      },
+      {
         "company":"Victory Step Education",
         "title":"SAT/ACT Tutor",
         "years":"August 2019 - Present",
         "description":"Provide academic and organizational support to students preparing for SAT, ACT, or regular coursework. Students passed AP tests, raised class grades and standardized test scores. Track student progress and employ appropriate interventions to raise scores and grades. Maintain energy and optimism throughout session; be student's cheerleader. Coordinate schedules with parents."
-      },
-      {
-        "company":"Chandler Preparatory Academy",
-        "title":"Honors Geometry/History Teacher",
-        "years":"July 2016 - July 2018",
-        "description":"Planned and implemented lessons with an emphasis on problem-solving, as well as helped develop the school's new geometry curriculum. Assisted multiple seniors write and defend their theses, maintaining clear communication and feedback to help improve their argument and presentation. Coordinated school spelling bee and 8th grade commencement, including communicating and planning across grade-level teams, participant tracking and creation of certificates."
       }
     ],
     "skills":[

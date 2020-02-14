@@ -39,7 +39,7 @@ class Header extends Component {
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <br></br>
             <br></br>
-            <h3>*<u>{description2}</u>*</h3>
+            {/* <h3>*<u>{description2}</u>*</h3> */}
             <hr />
             <ul className="social">
                {networks}
