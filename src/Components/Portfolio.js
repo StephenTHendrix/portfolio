@@ -36,7 +36,7 @@ class Portfolio extends Component {
                 {projects}
             </div>
             <h2 className = "text-center">Consultations:</h2>
-            <a href = "https://dallasrapecrisis.org/"><h3 className = "text-center">https://dallasrapecrisis.org/</h3></a>
+            <a href = "https://www.dallasrapecrisis.org/"><h3 className = "text-center">Dallas Rape Crisis Center Website</h3></a>
           </div>
       </div>
    </section>
