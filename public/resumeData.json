@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Stephen Hendrix",
-    "occupation":"Full-Stack Web Development Teaching Assistant",
+    "occupation":"Full-Stack Developer",
     "description":"Full-Stack Developer with a passion for problem-solving and collaboration",
     "image":"profilepic.jpg",
-    "bio":"As a web development teaching assistant, I help my students develop a problem-solving mindset: I encourage them to accomplish one small task at a time, and gradually build to a fully functioning application. This involves analyzing a problem and understanding it as smaller problems, a skill which I developed while pursuing a major in the History of Western Mathematics and Science, and modeled for the last 6 years as a teacher and tutor. Writing elegant code independently is exhilarating, but being able to share the process with a team is an experience I plan to chase for a long time.",
+    "bio":"After completing SMU's coding boot camp, I was immediately asked to come back as a Teaching Assistant because of my passion for problem-solving and ability to learn new technologies quickly. Teaching others gave me a chance to sharpen my own understanding - in order to communicate effectively, I had to make sure that my own ideas were clear (something that I learned quickly during my time as a classroom teacher). I'm currently employed as a full-stack developer, and have taken on some contract work during my journey. I've been fortunate enough to work on a variety of projects involving a variety of technology; the desire to learn is my primary motivation, especially when I get to do it alongside a great team.",
     "contactmessage":"I hope you'll get in touch to let me know about any exciting or interesting opportunities (as soon as this button is working!).",
     "email": "StephenTHendrix@gmail.com",
     "phone": "(469) 644-3598",
@@ -45,22 +45,28 @@
     ],
     "work":[
       {
+        "company":"Event Dynamic",
+        "title":"Full-Stack Developer",
+        "years":"April 2020 - Present",
+        "description":"At Event Dynamic I'm part of an impressive team that collaborates closely. I've become accustomed to working on assigned tasks in Jira, while communicating with others to reduce redundancy and optimize performance. I've helped with aspects of the front and back ends, from making reusable components and configuring redux stores to creating endpoints in Java."
+      },
+      {
+        "company":"Cake",
+        "title":"Lead Full-Stack Developer",
+        "years":"April 2020 - Present",
+        "description":"As the tech lead, I have a hand in every aspect of development, from the front and back ends to hosting and security. Our current and main project makes use of the MERN stack and is hosted through Heroku. I work closely with the supervisor and partners to ensure that our design and functionality remains impeccable, which I think of as a reflection of the code itself."
+      },
+      {
         "company":"Southern Methodist University",
         "title":"Full-Stack Web Development Teaching Assistant",
         "years":"January 2020 - Present",
         "description":"Teach students concept in coding, including Git, GitHub, HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Heroku, Node Js, MySQL, MongoDB, Express, Handelbars.js, ReactJS, and object-oriented programming. Encourage and model best practices and a problem-solving mindset."
-      },
-      {
-        "company":"Victory Step Education",
-        "title":"SAT/ACT Tutor",
-        "years":"August 2019 - Present",
-        "description":"Provide academic and organizational support to students preparing for SAT, ACT, or regular coursework. Students passed AP tests, raised class grades and standardized test scores. Track student progress and employ appropriate interventions to raise scores and grades. Maintain energy and optimism throughout session; be student's cheerleader. Coordinate schedules with parents."
       }
     ],
     "skills":[
       {
         "name":"ReactJS",
-        "level":"75%"
+        "level":"85%"
       },
       {
         "name":"mySQL",
@@ -84,7 +90,7 @@
       },
       {
         "name":"CSS",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"Javascript",
@@ -92,7 +98,7 @@
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"AJAX",
@@ -135,10 +141,6 @@
       {
         "text":"The Dallas Area Rape Crisis Center website does not currently have any developers or web support on staff. Stephen donated his time and expertise to us to help fix a few bugs we were experiencing in the site recently. His knowledge of development leads him to quickly solve any issues. Stephen kindly did this work for us onsite so that we could be a part of the process. He taught us some tips and tricks to help solve future issues. Working with him was a great experience and we truly appreciate his skill and patience. Thanks Stephen!",
         "user":"Janelle Gettmann, Dallas Rape Crisis Center"
-      },
-      {
-        "text":"Very Knowledgeable And Knows Where to Start Immediately! To see our son actually understand geometry on his first visit with Stephen was very gratifying. He was nervous about sharing what he didn't know about geometry and having to talk with a 'stranger' about his weaknesses. But Stephen came in, starting talking like he knew our son and starting working on geometry to where our son understood. Our son asked questions and wasn't afraid to try an answer and get it wrong. Stephen made him feel very comfortable. After Stephen left, our son felt so good about himself, we heard him say, 'YESSSSSS!!!! I got it', as he went to his room. Thank you, Stephen. Look forward to the next session.",
-        "user":"Lisa, Wyzant"
       }
     ]
   }
